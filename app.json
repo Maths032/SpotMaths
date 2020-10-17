@@ -1,0 +1,12 @@
+{
+  "name": "SpotMaths",
+  "displayName": "SpotMaths",
+  "expo": {
+    "name": "SpotMaths",
+    "slug": "SpotMaths",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
